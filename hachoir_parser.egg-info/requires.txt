@@ -1,0 +1,1 @@
+hachoir-core>=1.3
